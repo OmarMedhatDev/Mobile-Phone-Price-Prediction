@@ -40,7 +40,7 @@ We explore key features through visualizations to understand their distributions
 
 ### Correlation with Price Range
 
-![Correlation with Price Range](images/price_range1.png)
+![Correlation with Price Range](images/corr_price1.png)
 
 ## 4. Feature Engineering
 
@@ -48,7 +48,7 @@ New features are created to enhance the model's predictive power.
 
 ### Correlation with Engineered Features
 
-![Correlation with Engineered Features](images/price_range2.png)
+![Correlation with Engineered Features](images/corr_price2.png)
 
 ## 5. Data Preparation for Modeling
 
