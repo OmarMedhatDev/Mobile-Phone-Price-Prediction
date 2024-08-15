@@ -36,7 +36,7 @@ We explore key features through visualizations to understand their distributions
 
 ### Feature Distributions
 
-![Feature Distributions](https://example.com/feature-distributions.png)
+![Feature Distributions](images/overview.png)
 
 ### Correlation with Price Range
 
